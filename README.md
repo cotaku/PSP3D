@@ -5,5 +5,8 @@ This is a 3D graphics rendering pipeline accessing GRAM on Sony PlayStation Port
 
 Currently has implemented primitives generation, viewing transform and perspective transform, clipping, back-face culling and rasterization in the pipeline.
 
-Author: cotaku (from U of Minnesota)
+Some demos here:
+http://www-users.cs.umn.edu/~zqi/projects/psp
+
+Author: Qi (from U of Minnesota)
 Email: cotaku39 at gmail
